@@ -2,4 +2,4 @@
 
 ## Note on Code and Models
 
-The source code, pre-trained models, and parameters associated with this paper will be made publicly available upon its acceptance for publication.
+Dear editors and reviewers, we will make all code and model parameters publicly available after acceptance of the paper.
