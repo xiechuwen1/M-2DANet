@@ -1,4 +1,4 @@
-# M<sup>2</sup>DANet: A Multi-level Domain Adaptation Network with Multi-dimensional Feature Extractor for EEG Emotion Recognition
+# M<sup>2</sup>Net: A Multi-Dimensional Feature Fusion and Multi-Level Domain Adaptation Network for Cross-Subject EEG Emotion Recognition
 
 ## Note on Code and Models
 
